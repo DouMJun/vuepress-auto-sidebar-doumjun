@@ -1,11 +1,13 @@
 {
   "name": "vuepress-auto-sidebar-doumjun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "help you to create your sidebar",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DouMJun",
+  "git repository": "https://github.com/DouMJun/vuepress-auto-sidebar-doumjun",
+  "Email":"1228990775@qq.com",
   "license": "ISC"
 }

@@ -1,1 +1,1 @@
-module.exports = require('./autoSideBar2')
+module.exports = require('./autosidebar')
